@@ -1,0 +1,3 @@
+housing,customers,subscribers,avg_contacts,response_rate_pct,ci_low_pct,ci_high_pct
+no,1962,301,2.81,15.34,13.8,17.0
+yes,2559,220,2.78,8.6,7.6,9.7

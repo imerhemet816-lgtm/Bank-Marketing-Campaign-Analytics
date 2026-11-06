@@ -1,0 +1,10 @@
+job,education,customers,subscribers,response_rate_pct
+retired,secondary,105,22,20.95
+management,tertiary,787,113,14.36
+admin.,secondary,393,48,12.21
+technician,tertiary,211,24,11.37
+technician,secondary,520,55,10.58
+blue-collar,secondary,524,49,9.35
+services,secondary,363,32,8.82
+management,secondary,116,9,7.76
+blue-collar,primary,369,16,4.34

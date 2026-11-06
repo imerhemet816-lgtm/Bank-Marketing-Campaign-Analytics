@@ -1,0 +1,5 @@
+poutcome,customers,subscribers,avg_contacts,response_rate_pct,ci_low_pct,ci_high_pct
+success,129,83,1.74,64.34,55.8,72.1
+other,197,38,2.35,19.29,14.4,25.4
+failure,490,63,1.96,12.86,10.2,16.1
+unknown,3705,337,2.96,9.1,8.2,10.1

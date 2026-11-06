@@ -1,0 +1,13 @@
+job,customers,subscribers,avg_contacts,response_rate_pct,ci_low_pct,ci_high_pct
+retired,230,54,2.47,23.48,18.5,29.4
+student,84,19,2.39,22.62,15.0,32.6
+unknown,38,7,2.55,18.42,9.2,33.4
+management,969,131,2.97,13.52,11.5,15.8
+housemaid,112,14,2.5,12.5,7.6,19.9
+admin.,478,58,2.63,12.13,9.5,15.4
+self-employed,183,20,3.28,10.93,7.2,16.3
+technician,768,83,2.73,10.81,8.8,13.2
+unemployed,128,13,2.68,10.16,6.0,16.6
+services,417,38,2.82,9.11,6.7,12.3
+entrepreneur,168,15,2.59,8.93,5.5,14.2
+blue-collar,946,69,2.85,7.29,5.8,9.1

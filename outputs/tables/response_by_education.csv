@@ -1,0 +1,5 @@
+education,customers,subscribers,avg_contacts,response_rate_pct,ci_low_pct,ci_high_pct
+tertiary,1350,193,2.9,14.3,12.5,16.3
+secondary,2306,245,2.73,10.62,9.4,11.9
+unknown,187,19,2.49,10.16,6.6,15.3
+primary,678,64,2.87,9.44,7.5,11.9
