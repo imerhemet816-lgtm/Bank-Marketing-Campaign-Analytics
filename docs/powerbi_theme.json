@@ -1,0 +1,7 @@
+{
+  "name": "Bank Marketing",
+  "dataColors": ["#1B7F8C", "#0B2545", "#C9A227", "#8A94A6", "#B5483A", "#5A9BA5"],
+  "background": "#FFFFFF",
+  "foreground": "#0B2545",
+  "tableAccent": "#0B2545"
+}
