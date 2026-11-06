@@ -1,5 +1,12 @@
 # Bank Marketing Campaign Performance Analysis
 
+### 🌐 Live Interactive Dashboard
+
+**[🚀 Explore the Streamlit Dashboard](https://imerhemet816-lgtm-bank-marketing-campai-appstreamlit-app-wfpau6.streamlit.app/)**
+
+Explore campaign KPIs, customer segmentation, conversion rates,
+interactive visualizations, and business insights.
+
 An analysis of a Portuguese bank's phone campaign for term deposits. It covers data cleaning in Python, a cross-check in MySQL, an Excel workbook, a static dashboard image and an interactive Streamlit dashboard.
 
 ![Executive overview of the Streamlit dashboard](docs/screenshots/executive_overview.png)
@@ -155,13 +162,20 @@ The script creates a `bank_marketing` database and a `campaign_contacts` table, 
 
 ## Deploying the Streamlit app
 
-The app has **not** been deployed, so there is no public URL. To deploy it on Streamlit Community Cloud:
+## Live Streamlit Application
 
-1. Push the repository to GitHub, including `data/processed/bank_clean.csv` (the app reads it).
-2. Sign in at share.streamlit.io with your GitHub account and choose **Create app**.
-3. Select the repository and branch, and set the main file path to `app/streamlit_app.py`.
-4. Deploy. The platform installs the packages listed in `requirements.txt` from the repository root.
-5. Once it is live, add the URL to this README.
+The interactive dashboard has been deployed using Streamlit Community Cloud.
+
+**Live Dashboard:** [Open Application](https://imerhemet816-lgtm-bank-marketing-campai-appstreamlit-app-wfpau6.streamlit.app/)
+
+The dashboard includes four interactive sections:
+- Executive Overview
+- Customer Analytics
+- Campaign Performance
+- Business Insights
+
+Users can explore customer segments, campaign conversion rates,
+marketing effectiveness, and data-driven business recommendations.
 
 ## What was verified
 
@@ -178,7 +192,7 @@ Not verified:
 - The Excel file has not been opened in Microsoft Excel.
 - The DAX measures and Power BI layout have not been run in Power BI.
 - The Streamlit app was checked only in headless Chromium, and not on a phone or in other browsers.
-- Deployment on Streamlit Community Cloud has not been attempted.
+Deployment to Streamlit Community Cloud was performed; live functionality remains to be verified.
 
 ## Limitations
 
